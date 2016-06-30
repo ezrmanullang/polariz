@@ -43,8 +43,12 @@
                   <div style="padding: 3px 8px;">Show system date</div>
                </td>
             </tr>
-                                                                    <tr class="altrow countrow">
-                                                                                            <td valign="top" class="cheat_sheet_output_cell_1" style="white-space: nowrap"><div style="padding: 3px 8px;"><a target="_blank" href="http://unixhelp.ed.ac.uk/CGI/man-cgi?uptime">uptime</a></div></td>
+            <tr class="altrow countrow">
+               <td valign="top" class="cheat_sheet_output_cell_1" style="white-space: nowrap">
+               <div style="padding: 3px 8px;">
+                  <a target="_blank" href="http://unixhelp.ed.ac.uk/CGI/man-cgi?uptime">uptime</a>
+               </div>
+               </td>
                                                                                             <td valign="top" class="cheat_sheet_output_cell_2"><div style="padding: 3px 8px;">Show uptime</div></td>
                                                     </tr>
                                                                     <tr class="countrow">
