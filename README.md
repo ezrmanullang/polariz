@@ -1,6 +1,7 @@
 # polariz
 
-<h1>Polar Code Ground</h1>
+<fieldset>
+<legend>Polar Code Ground<legend>
 <br>
 <p>Help me learn some coding on:<p>
 <ul>
@@ -8,3 +9,4 @@
 <li>laravel</li>
 <li> and go language </li>
 </ul>
+</fieldset>
