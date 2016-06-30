@@ -7,6 +7,6 @@
 <ul>
 <li>codeigniter</li>
 <li>laravel</li>
-<li> and go language </li>
+<li> and Go language </li>
 </ul>
 </fieldset>
